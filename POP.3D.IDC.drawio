@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T15:45:40.081Z" agent="5.0 (X11)" etag="bd0BCEhnoXZog_3VSyTx" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T15:53:32.615Z" agent="5.0 (X11)" etag="kgkMu_PRIFwdv-b8Iw7q" version="20.5.1" type="github">
   <diagram id="LnV7Q4egvxKXvry7iycM" name="Page-1">
     <mxGraphModel dx="1102" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,6 +69,24 @@
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="610" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qJtQWTxfJOTgb9Qh6GYz-23" value="Diana" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374.5" y="540" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJtQWTxfJOTgb9Qh6GYz-24" value="Diana" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJtQWTxfJOTgb9Qh6GYz-25" value="ICON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="670" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJtQWTxfJOTgb9Qh6GYz-26" value="ISAT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="670" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJtQWTxfJOTgb9Qh6GYz-27" value="Gastra" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJtQWTxfJOTgb9Qh6GYz-28" value="Cyberplus" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="670" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
