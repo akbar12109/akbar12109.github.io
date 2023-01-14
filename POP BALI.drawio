@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T23:05:49.128Z" agent="5.0 (X11)" version="20.8.1" etag="3C7SqrgCg1X5wktEMHjG" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T23:28:20.515Z" agent="5.0 (X11)" version="20.8.1" etag="5FKJaKPnSBzky3WOKscG" type="github">
   <diagram id="OqgXAW-LPqEifzOETUMX" name="Page-1">
-    <mxGraphModel dx="818" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="314" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,9 @@
         <mxCell id="n1W2GSKpQ4CHd-G-5UiB-6" value="Jakarta&amp;lt;&amp;gt;Bali &lt;br&gt;Fiberstar VLAN 629" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="325" y="100" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-7" target="n1W2GSKpQ4CHd-G-5UiB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n1W2GSKpQ4CHd-G-5UiB-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
           <mxGeometry x="541.8" y="329" width="74.4" height="51" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="n1W2GSKpQ4CHd-G-5UiB-9" value="&lt;div align=&quot;left&quot;&gt;2. T--SW.Rack.16.2&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. T--Interkoneksi-CyberAkses&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;21. T--Jabalink-Fiberstar&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;22. T--Backup-Wirelles.Ubung&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;24. T--CGS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;25. SFP. T--POP.Ubung&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;26. SFP. T--Netlink:Fiberstar&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="639" y="85.5" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-11" value="&lt;div align=&quot;left&quot;&gt;3. T--BMC.VHOST.DPS&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;14. T--CCR2004:04-Downstream&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;15. T--CCR2004:01-Upstream&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;17. T--Distri.Router-P01&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;18. T--Uplink.P01-OLT-GPON-UB&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;21. T--SKY.Backup-CyberAcces&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;23-24 T--VHOST-eth1&amp;amp;2&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;25. SFP.BB T--NIX 10GB&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;25. SFP.BB T--Sila.Kumara&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="639" y="275" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
