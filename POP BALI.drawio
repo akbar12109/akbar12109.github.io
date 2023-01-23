@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T09:12:12.440Z" agent="5.0 (X11)" etag="xYojBwmaOSE4eOUUgbqV" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T11:32:58.102Z" agent="5.0 (X11)" etag="zl2k_vCGPgTHMgMf0oOP" version="20.8.5" type="github">
   <diagram id="OqgXAW-LPqEifzOETUMX" name="Page-1">
-    <mxGraphModel dx="571" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,6 +98,9 @@
             <mxPoint x="430" y="410" as="sourcePoint" />
             <mxPoint x="570" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PtzL0Ar7DMLRvEQvI9qJ-1" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;V50 Sky Broadband&lt;/li&gt;&lt;li&gt;V51 Werdhi WI&lt;/li&gt;&lt;li&gt;V52 SBU Holding&lt;/li&gt;&lt;li&gt;V53 PT ORBIT&lt;/li&gt;&lt;li&gt;V54 RESVILLA&lt;/li&gt;&lt;li&gt;V55 CRYSTAL&lt;/li&gt;&lt;li&gt;V56 RESELLER TABANAN&lt;/li&gt;&lt;li&gt;V57 HCS-DENPASAR&lt;/li&gt;&lt;li&gt;V64 SMK WERDHI FO&lt;/li&gt;&lt;li&gt;V83 BSP BALI&lt;/li&gt;&lt;li&gt;V85 HIYOTO BALI&lt;/li&gt;&lt;li&gt;V87 BELMOND WI&lt;/li&gt;&lt;li&gt;V101 VNET PRIVATSERVER&lt;/li&gt;&lt;li&gt;V102 VNET&amp;nbsp; PUBLIC SERVER&lt;/li&gt;&lt;li&gt;V127 CYBER BALMOND&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF0000&quot;&gt;V801 LLKIH KDG FO&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF0000&quot;&gt;V802 BELMOND FO&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF0000&quot;&gt;V2000 JATI COTAGE CGS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#FF0000&quot;&gt;V2001 JATI COTAGE FS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;V3016 MGMT SWITCH&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-340" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
