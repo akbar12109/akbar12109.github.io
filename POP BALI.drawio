@@ -1,99 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T00:09:09.296Z" agent="5.0 (X11)" version="20.8.1" etag="adV21G_SeUOb2H2gJgxJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T09:12:12.440Z" agent="5.0 (X11)" etag="xYojBwmaOSE4eOUUgbqV" version="20.8.5" type="github">
   <diagram id="OqgXAW-LPqEifzOETUMX" name="Page-1">
-    <mxGraphModel dx="449" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="571" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-1" target="n1W2GSKpQ4CHd-G-5UiB-3">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-1" target="n1W2GSKpQ4CHd-G-5UiB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-1" value="JAKARTA &lt;br&gt;BELICIA &amp;amp; ALICIA" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-1" value="JAKARTA &lt;br&gt;BELICIA &amp;amp; ALICIA" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5" y="-40" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-2" value="POP BALI (UBUNG)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-2" value="POP BALI (UBUNG)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" parent="1" vertex="1">
           <mxGeometry x="185" y="445" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-3" value="10.81.255.3" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-3" value="10.81.255.3" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" parent="1" vertex="1">
           <mxGeometry x="701.8" y="-10.5" width="74.4" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-5" value="SWITCH NIX BALI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-5" value="SWITCH NIX BALI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-6" value="Jakarta&amp;lt;&amp;gt;Bali &lt;br&gt;Fiberstar VLAN 629" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-6" value="Jakarta&amp;lt;&amp;gt;Bali &lt;br&gt;Fiberstar VLAN 629" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="-30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-7" target="n1W2GSKpQ4CHd-G-5UiB-2">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-7" target="n1W2GSKpQ4CHd-G-5UiB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-7" value="10.81.255.5" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-7" value="10.81.255.5" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" parent="1" vertex="1">
           <mxGeometry x="541.8" y="444" width="74.4" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-8" value="SWITCH (UBUNG)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-8" value="SWITCH (UBUNG)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="514" y="520" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-9" value="&lt;div&gt;2. T--SW.Rack.16.2&lt;/div&gt;&lt;div&gt;3. T--Interkoneksi-CyberAkses&lt;/div&gt;&lt;div&gt;21. T--Jabalink-Fiberstar&lt;/div&gt;&lt;div&gt;22. T--Backup-Wirelles.Ubung&lt;/div&gt;&lt;div&gt;24. T--CGS&lt;/div&gt;&lt;div&gt;25. SFP. T--POP.Ubung&lt;/div&gt;&lt;div&gt;26. SFP. T--Netlink:Fiberstar&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-9" value="&lt;div&gt;2. T--SW.Rack.16.2&lt;/div&gt;&lt;div&gt;3. T--Interkoneksi-CyberAkses&lt;/div&gt;&lt;div&gt;21. T--Jabalink-Fiberstar&lt;/div&gt;&lt;div&gt;22. T--Backup-Wirelles.Ubung&lt;/div&gt;&lt;div&gt;24. T--CGS&lt;/div&gt;&lt;div&gt;25. SFP. T--POP.Ubung&lt;/div&gt;&lt;div&gt;26. SFP. T--Netlink:Fiberstar&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="470" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-11" value="&lt;div&gt;&lt;br&gt;3. T--BMC.VHOST.DPS&lt;/div&gt;&lt;div&gt;14. T--CCR2004:04-Downstream&lt;/div&gt;&lt;div&gt;15. T--CCR2004:01-Upstream&lt;/div&gt;&lt;div&gt;17. T--Distri.Router-P01&lt;/div&gt;&lt;div&gt;18. T--Uplink.P01-OLT-GPON-UB&lt;/div&gt;&lt;div&gt;21. T--SKY.Backup-CyberAcces&lt;/div&gt;&lt;div&gt;23-24 T--VHOST-eth1&amp;amp;2&lt;/div&gt;&lt;div&gt;25. SFP.BB T--NIX 10GB&lt;/div&gt;&lt;div&gt;25. SFP.BB T--Sila.Kumara&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-11" value="&lt;div&gt;&lt;br&gt;3. T--BMC.VHOST.DPS&lt;/div&gt;&lt;div&gt;14. T--CCR2004:04-Downstream&lt;/div&gt;&lt;div&gt;15. T--CCR2004:01-Upstream&lt;/div&gt;&lt;div&gt;17. T--Distri.Router-P01&lt;/div&gt;&lt;div&gt;18. T--Uplink.P01-OLT-GPON-UB&lt;/div&gt;&lt;div&gt;21. T--SKY.Backup-CyberAcces&lt;/div&gt;&lt;div&gt;23-24 T--VHOST-eth1&amp;amp;2&lt;/div&gt;&lt;div&gt;25. SFP.BB T--NIX 10GB&lt;/div&gt;&lt;div&gt;25. SFP.BB T--Sila.Kumara&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="639" y="390" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-13" value="Jatti Cotage" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-13" value="Jatti Cotage" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" parent="1" vertex="1">
           <mxGeometry x="1250" y="210" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-22" target="n1W2GSKpQ4CHd-G-5UiB-13">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-22" target="n1W2GSKpQ4CHd-G-5UiB-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="80" as="sourcePoint" />
             <mxPoint x="470" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-16" value="CGS Vlan 2000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n1W2GSKpQ4CHd-G-5UiB-15">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-16" value="CGS Vlan 2000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="n1W2GSKpQ4CHd-G-5UiB-15" vertex="1" connectable="0">
           <mxGeometry x="0.238" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-17" value="LL.KIH.KDG.FO" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-17" value="LL.KIH.KDG.FO" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" parent="1" vertex="1">
           <mxGeometry x="1150" y="115" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-18" value="FS Vlan 801" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-21" target="n1W2GSKpQ4CHd-G-5UiB-17">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-18" value="FS Vlan 801" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-21" target="n1W2GSKpQ4CHd-G-5UiB-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="175" as="sourcePoint" />
             <mxPoint x="140" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-19" value="BELMOND.FO" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="85" width="50" height="50" as="geometry" />
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-19" value="BELMOND.FO" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.router;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="60" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-20" value="FS Vlan 802" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="n1W2GSKpQ4CHd-G-5UiB-19">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-20" value="FS Vlan 802" style="endArrow=classic;html=1;rounded=0;" parent="1" target="n1W2GSKpQ4CHd-G-5UiB-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="130" as="sourcePoint" />
             <mxPoint x="140" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-21" value="FS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-21" value="FS" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-22" value="&lt;div&gt;CGS&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-22" value="&lt;div&gt;CGS&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="184" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-23" value="FS Vlan 2001" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-21" target="n1W2GSKpQ4CHd-G-5UiB-13">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-23" value="FS Vlan 2001" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-21" target="n1W2GSKpQ4CHd-G-5UiB-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="135" as="sourcePoint" />
             <mxPoint x="1070" y="75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-24" value="Backup.Wirelles&lt;br&gt;Ubung" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-24" value="Backup.Wirelles&lt;br&gt;Ubung" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-25" value="FO. Ubung" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-25" value="FO. Ubung" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-25" target="n1W2GSKpQ4CHd-G-5UiB-7">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-25" target="n1W2GSKpQ4CHd-G-5UiB-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="420" as="sourcePoint" />
             <mxPoint x="430" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-24">
+        <mxCell id="n1W2GSKpQ4CHd-G-5UiB-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n1W2GSKpQ4CHd-G-5UiB-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="410" as="sourcePoint" />
             <mxPoint x="570" y="440" as="targetPoint" />
