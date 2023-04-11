@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T19:01:46.869Z" agent="5.0 (X11)" etag="PpHqVlicVgUN8R1-bif2" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T19:19:13.486Z" agent="5.0 (X11)" etag="SLpHrWqR6QDJFKxMLI5f" version="20.8.16" type="github">
   <diagram name="Page-1" id="jWL4H5GWRWFEMTrIt_fe">
-    <mxGraphModel dx="3583" dy="3091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2425" dy="2404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,11 +28,14 @@
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-8" value="POP PURWAKARTA &lt;br&gt;Rumah Pak Farid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2294" y="-1107" width="167" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-21" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;curved=1;dashed=1;shape=link;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-9" target="l8kAq1uLgbvHiUrE_Mqz-20">
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-21" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;curved=1;dashed=1;shape=link;exitX=0.5;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-9" target="l8kAq1uLgbvHiUrE_Mqz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2062" y="-691" width="100" height="225" as="geometry" />
+          <mxGeometry x="2062" y="-682" width="100" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-118" style="edgeStyle=none;shape=link;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;dashed=1;exitX=0.5;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-10" target="l8kAq1uLgbvHiUrE_Mqz-109">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2220" y="-696" width="100" height="225" as="geometry" />
@@ -277,8 +280,20 @@
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-105" value="doni01cjh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="589" y="507" width="50" height="48.5" as="geometry" />
         </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-112" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;shape=flexArrow;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-109" target="l8kAq1uLgbvHiUrE_Mqz-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-109" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1780" y="-316" width="100" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-111" value="DAKSINA KP MANIIS&lt;br&gt;YANA" style="whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=north;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1773" y="-485" width="118" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-119" value=" TL-SG1016DE" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1791" y="-51" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-120" value="Port 1 Up Radio&lt;br&gt;Port 2 Akim&lt;br&gt;Port 5 &amp;amp; 14?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1947" y="-55.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
