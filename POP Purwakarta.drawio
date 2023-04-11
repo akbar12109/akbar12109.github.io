@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T19:25:21.548Z" agent="5.0 (X11)" etag="J5-mmecyq2geVkQBzV_r" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T21:34:02.888Z" agent="5.0 (X11)" etag="Ujpj3X_Q12LKfTOjfZ4Q" version="20.8.16" type="github">
   <diagram name="Page-1" id="jWL4H5GWRWFEMTrIt_fe">
-    <mxGraphModel dx="1356" dy="2404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3715" dy="2855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,17 +71,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-20" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="836" y="-373" width="100" height="225" as="geometry" />
+          <mxGeometry x="592" y="-357" width="100" height="225" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-22" value="DAKSINA SINARGALIH&lt;br&gt;AKIM" style="whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=north;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="823" y="-549" width="118" height="68" as="geometry" />
+          <mxGeometry x="579" y="-533" width="118" height="68" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-24" value="snrgrh@akim" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="-110" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="941" y="-94" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-29" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1017.5999999999999" y="-89.95002562788318" as="targetPoint" />
+            <mxPoint x="773.5999999999999" y="-73.95002562788318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-42" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-25" target="l8kAq1uLgbvHiUrE_Mqz-24">
@@ -90,14 +90,14 @@
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-50" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-25" target="l8kAq1uLgbvHiUrE_Mqz-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-62" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-31" target="l8kAq1uLgbvHiUrE_Mqz-61">
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-182" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.979;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-25" target="l8kAq1uLgbvHiUrE_Mqz-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-25" value=" TL-SG1016DE" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="846" y="-117" width="74.4" height="51" as="geometry" />
+          <mxGeometry x="602" y="-101" width="74.4" height="51" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-30" value="Port 1 Up Radio&lt;br&gt;Port 2 Akim&lt;br&gt;Port 5 &amp;amp; 14?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1017" y="-121.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="773" y="-105.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-38" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-31" target="l8kAq1uLgbvHiUrE_Mqz-32">
           <mxGeometry relative="1" as="geometry" />
@@ -112,48 +112,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-31" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Akim&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="844.2" y="-10" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="600.2" y="6" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-32" value="givael01cjaha" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="690" y="83" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="446" y="99" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-33" value="psragn02sulaemi" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="813" y="79" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="569" y="95" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-52" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-34" target="l8kAq1uLgbvHiUrE_Mqz-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="938" y="197" as="targetPoint" />
+            <mxPoint x="694" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-34" value="psragn02feri" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="929" y="76" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="685" y="92" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-49" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-35" target="l8kAq1uLgbvHiUrE_Mqz-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-35" value="lilisrat028" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="76" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="778" y="92" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-47" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-43" target="l8kAq1uLgbvHiUrE_Mqz-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-43" value="nanasur01snrglh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="200.14999999999998" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="927" y="216.14999999999998" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-48" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-45" target="l8kAq1uLgbvHiUrE_Mqz-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-45" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Nana&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="198" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="768" y="214" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-46" value="ria06snrglh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="328" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="782" y="344" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-56" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-51" target="l8kAq1uLgbvHiUrE_Mqz-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-51" value="cjh01sarjiyem" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="929" y="202.3" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="685" y="218.3" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-58" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-55" target="l8kAq1uLgbvHiUrE_Mqz-57">
           <mxGeometry relative="1" as="geometry" />
@@ -162,13 +162,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-55" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Elin&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="910" y="318" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="666" y="334" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-57" value="cjh01elin" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="818" y="318" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="574" y="334" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-59" value="solahudin011ctmng&lt;br&gt;MTS ASSARIBIYAH" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="929" y="448" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="685" y="464" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-64" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-61" target="l8kAq1uLgbvHiUrE_Mqz-63">
           <mxGeometry relative="1" as="geometry" />
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-71" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-61" target="l8kAq1uLgbvHiUrE_Mqz-86">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311.9095970697158" y="154.0808058605685" as="targetPoint" />
+            <mxPoint x="67.9095970697158" y="170.0808058605685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-73" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-61" target="l8kAq1uLgbvHiUrE_Mqz-69">
@@ -191,22 +191,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-61" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Agus Mahardika&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="359.00000000000006" y="9.449999999999996" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="115.00000000000006" y="25.449999999999996" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-63" value="cjh01agus" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="259" y="9.449999999999996" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="15" y="25.449999999999996" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-65" value="cjh01anwar" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3" y="139.3" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="-241" y="155.3" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-68" value="cjh01aidah" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="558" y="339.35" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="314" y="355.35" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-69" value="dely01cjh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="476" y="131.5" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="232" y="147.5" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-70" value="cjh01deni" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="554" y="131.5" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="310" y="147.5" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-76" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-75" target="l8kAq1uLgbvHiUrE_Mqz-65">
           <mxGeometry relative="1" as="geometry" />
@@ -224,16 +224,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-75" value="&lt;div&gt;MC&lt;br&gt;&lt;/div&gt;&lt;div&gt;Anwar&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="125.00000000000006" y="135" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="-118.99999999999994" y="151" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-77" value="&lt;div&gt;cjh01tini&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="273" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="-268" y="289" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-78" value="titi02snrglh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="53" y="270" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="-191" y="286" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-79" value="aguskus003chj" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="150" y="268" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="-94" y="284" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-88" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-86" target="l8kAq1uLgbvHiUrE_Mqz-87">
           <mxGeometry relative="1" as="geometry" />
@@ -245,16 +245,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-86" value="&lt;div&gt;MC &lt;br&gt;&lt;/div&gt;&lt;div&gt;Ikbal&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="247.00000000000006" y="265.2" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="3.000000000000057" y="281.2" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-87" value="cjh01ikbal" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="357" y="269.5" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="113" y="285.5" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-93" value="mis03hamidah" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="203" y="394" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="-41" y="410" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-95" value="ucu01cjh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="319" y="390" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="75" y="406" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-102" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-100" target="l8kAq1uLgbvHiUrE_Mqz-68">
           <mxGeometry relative="1" as="geometry" />
@@ -269,16 +269,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-100" value="&lt;div&gt;MC &lt;br&gt;&lt;/div&gt;&lt;div&gt;aidah&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430.00000000000006" y="337.2" width="78" height="52.8" as="geometry" />
+          <mxGeometry x="186.00000000000006" y="353.2" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-103" value="maulana01cjh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="355" y="510" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="111" y="526" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-104" value="psragn02asria" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="472" y="510" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="228" y="526" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-105" value="doni01cjh" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="589" y="507" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="345" y="523" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-112" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;shape=flexArrow;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-109" target="l8kAq1uLgbvHiUrE_Mqz-111">
           <mxGeometry relative="1" as="geometry" />
@@ -301,6 +301,9 @@
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-129" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-119" target="l8kAq1uLgbvHiUrE_Mqz-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-170" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-119" target="l8kAq1uLgbvHiUrE_Mqz-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-119" value=" TL-SG1016DE" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1791" y="-51" width="74.4" height="51" as="geometry" />
         </mxCell>
@@ -310,11 +313,137 @@
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-126" value="mis07yana" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2126" y="-55.5" width="50" height="48.5" as="geometry" />
         </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-140" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-128" target="l8kAq1uLgbvHiUrE_Mqz-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-141" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-128" target="l8kAq1uLgbvHiUrE_Mqz-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-142" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-128" target="l8kAq1uLgbvHiUrE_Mqz-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-143" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-128" target="l8kAq1uLgbvHiUrE_Mqz-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l8kAq1uLgbvHiUrE_Mqz-128" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Yana&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1791" y="71.7" width="78" height="52.8" as="geometry" />
         </mxCell>
-        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-130" value="mis07yana" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1627" y="187.8" width="50" height="48.5" as="geometry" />
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-130" value="cgbgjamili" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2058" y="156" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-131" value="sgh04cecep" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="200.15" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-132" value="rinapus03ctmiang" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1848" y="200.15" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-133" value="mis07haerudin" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="183" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-144" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-134" target="l8kAq1uLgbvHiUrE_Mqz-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-146" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-134" target="l8kAq1uLgbvHiUrE_Mqz-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-147" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-134" target="l8kAq1uLgbvHiUrE_Mqz-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-149" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-134" target="l8kAq1uLgbvHiUrE_Mqz-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-134" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Cecep&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1713" y="195.85000000000002" width="78" height="52.8" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-137" value="nining01plmbn" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="363" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-138" value="ikoh10psrkrg" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1747" y="354" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-139" value="elih02krg" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1848" y="354" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-150" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-159" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-160" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-161" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-162" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-163" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-164" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-148" target="l8kAq1uLgbvHiUrE_Mqz-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-148" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Nining&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="363" width="78" height="52.8" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-151" value="mis07rina" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="531" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-154" value="mis08sinta" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1443" y="531" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-167" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-155" target="l8kAq1uLgbvHiUrE_Mqz-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-155" value="dewi01plmbn" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1542" y="531" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-168" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-156" target="l8kAq1uLgbvHiUrE_Mqz-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-156" value="mis08entang" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1652" y="531" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-157" value="mis08habib" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1764" y="531" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-158" value="mis08tikah" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1867" y="531" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-165" value="irus017gngkrg" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1542" y="657" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-166" value="misra021gngkrg" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1661" y="657" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-174" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-169" target="l8kAq1uLgbvHiUrE_Mqz-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-179" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-169" target="l8kAq1uLgbvHiUrE_Mqz-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-180" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-169" target="l8kAq1uLgbvHiUrE_Mqz-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-181" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8kAq1uLgbvHiUrE_Mqz-169" target="l8kAq1uLgbvHiUrE_Mqz-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-169" value="&lt;div&gt;MC 6 Port&lt;/div&gt;&lt;div&gt;Siti&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L2_POE.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="-59.8" width="78" height="52.8" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-171" value="mis07siti" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="-57.650000000000006" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-175" value="irpan08maniis" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1324" y="67" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-176" value="mis07yandi" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="67" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8kAq1uLgbvHiUrE_Mqz-177" value="ece03ctmiang" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home.svg;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1531" y="64" width="50" height="48.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
